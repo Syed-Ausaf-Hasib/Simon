@@ -1,1 +1,1 @@
-https://syed-ausaf-hasib.github.io/try/simon
+https://syed-ausaf-hasib.github.io/Simon/simon/
